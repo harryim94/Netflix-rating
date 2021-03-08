@@ -1,2 +1,3 @@
 # Netflix-rating
-find pattern for ratings depends on some attributes
+soruce:Kaggle Netflix data
+Tracking and contrast trend of rating in USA over time
